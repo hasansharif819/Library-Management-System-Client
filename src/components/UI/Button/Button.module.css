@@ -1,0 +1,28 @@
+.button {
+  font-size: 20px;
+  border: none;
+  background: #5d7aa9;
+  color: white;
+  padding: .4rem 1rem;
+  cursor: pointer;
+  font-family: 'Balsamiq Sans', cursive;
+}
+.button a{
+  text-decoration: none;
+  color: white;
+}
+.button a:hover{
+ 
+  color: #5d7aa9;
+  transition: .8s;
+}
+.button:hover a{
+  color: #5d7aa9;
+  transition: .8s;
+}
+.button:hover,
+.button:active {
+  background :white;
+  color: #5d7aa9;
+  transition: .8s;
+}

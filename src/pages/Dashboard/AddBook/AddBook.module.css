@@ -1,0 +1,11 @@
+.addBook{
+  background-color: #674578;
+
+}
+.bookForm{
+  background-color:#57669e;
+  margin: auto;
+  width: 700px;  
+  z-index: 2;
+  box-shadow: 5px 5px 5px #272c4a;
+}

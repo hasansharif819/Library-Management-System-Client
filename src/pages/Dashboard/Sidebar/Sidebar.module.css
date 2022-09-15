@@ -1,0 +1,17 @@
+.sidenav{
+  background-color: #2f425e;
+  height: calc(100vh);
+  height: -webkit- calc(100vh);
+  height: -moz- calc(100vh);
+}
+.logo img{
+  height:100px;
+  width:100px;
+}
+.sidenavMenu a{
+  font-size: 25px;
+  padding: 6px;
+  color:rgb(246, 246, 246);
+  text-decoration: none;
+  display: block;
+}

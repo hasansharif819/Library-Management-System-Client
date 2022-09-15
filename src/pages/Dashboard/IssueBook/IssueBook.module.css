@@ -1,0 +1,15 @@
+.issueHeader{
+  color:#fb9a39;
+}
+.issueForm{
+  width:400px;
+  background-color:#424aa1;
+}
+.issueForm ::placeholder {
+  color: rgb(148, 147, 147);
+  font-size: 20px;
+}
+.issueTable{
+  margin-top: 25px;
+  background-color:#2f425e;
+}

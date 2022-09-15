@@ -1,0 +1,20 @@
+.books{
+  background-color: #193052;
+}
+.books h1{
+  color: white;
+}
+.table{
+  border-radius: 5px;
+  background-color:#2f425e;
+}
+.tableHead tr th {
+  padding-right:10px;
+  color: rgb(255, 255, 255);
+  font-size: 20px;
+}
+.tableBody tr td {
+  /* padding-right:60px; */
+  color: rgb(255, 255, 255);
+  font-size: 15px;
+}

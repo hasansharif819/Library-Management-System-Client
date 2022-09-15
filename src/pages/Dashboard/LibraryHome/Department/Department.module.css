@@ -1,0 +1,11 @@
+.cardText{
+font-size: 60px;
+height:100px;
+width:160px;
+background-color:#2f425e;
+color: aliceblue;
+}
+.cardText:hover{
+transform: scale(1.1);
+transition: 1s;
+}

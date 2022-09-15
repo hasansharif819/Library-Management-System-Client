@@ -1,0 +1,19 @@
+.nav{
+  background-color: #2d5081;
+  font-family: 'Ubuntu', sans-serif;
+}
+.logo img{
+height:100px;
+width:100px;
+}
+.name{
+  margin-top:20px;
+  color: #FB9937;
+  margin-bottom: 0.25rem;
+}
+.name h3{
+  font-size:30px;
+}
+.navLeft{
+  margin-top:37px;
+}

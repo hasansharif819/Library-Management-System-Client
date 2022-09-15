@@ -1,0 +1,26 @@
+.login{
+background-color:#ffffff;
+height:calc(100vh)
+}
+.logo img{
+  height:100px;
+  width:100px;
+}
+.loginTop{
+background-color:#1d3863;
+}
+.logoText h1{
+  font-family: 'Ubuntu', sans-serif;
+  color :#fb9a39;
+}
+.logoText p{
+  font-family: 'Ubuntu', sans-serif;
+  color :#7ab259;
+  font-weight: bold;
+}
+.video video{
+  height:500px;
+}
+.loginPart{
+  margin-left: 100px;
+}

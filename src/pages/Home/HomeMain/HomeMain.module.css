@@ -1,0 +1,27 @@
+.homeMain{
+  background-color: #132b50;
+}
+.video video{
+  background-color: #1d3863;
+  height:450px;
+  margin-top:30px;
+}
+.titleBar{
+ margin-top: 60px;
+    width: 6px;
+    height: 400px;
+    background-color: #fde110;
+    border-radius: 500px;
+    position: relative;
+}
+.text{
+  font-family: 'Ubuntu', sans-serif;
+  position: absolute;
+  top:200px;
+}
+.text h1{
+  color: #ffffff;
+}
+.text p{
+color :rgb(230, 230, 230);
+}

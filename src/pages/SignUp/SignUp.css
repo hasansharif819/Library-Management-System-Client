@@ -1,0 +1,143 @@
+*{
+  margin: 0;
+  padding:0;
+  }
+  .signupLogo img {
+    height:120px;
+  width:120px;
+  }
+  .logoText h1{
+    font-family: 'Ubuntu', sans-serif;
+    color :#fb9a39;
+  }
+  .logoText p{
+    font-family: 'Ubuntu', sans-serif;
+    color :#7ab259;
+    font-weight: bold;
+  }
+  .signUpVideo video {
+    width:430px;
+    margin-top: 48px;
+  }
+  
+  .full-signup{
+    background-color: #f5f5f5;
+    margin: 0;
+    height:100vh;
+    color:white;
+  }
+  .signupForm{
+    margin-left: auto;
+    background-color: #7c55f9;
+    width:450px;
+  }
+  .signupBtn {
+   width:100%;
+   background-color:#3b3f56;
+   color:#fff;
+   font-weight: bold;
+  }
+  .signupBtn:hover {
+    background-color:#3b50c3;
+    color: rgb(250, 221, 255);
+    transition: 1s;
+  }
+  .full-signup a{
+    color:rgb(119, 31, 5);
+    font-weight: bold;
+  }
+  .full-signup a:hover{
+    color:white;
+  }
+  
+  .signupSocial i{
+    font-size:38px;
+    color: #ffffff;
+  }
+  
+  .signupSocial i:hover{
+  color: #39eccb;
+  transform: scale(1.5);
+  transition:.5s;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  /* .signup {
+    background-color: #344a72;
+    font-family: "Roboto", sans-serif;
+  }
+  .signupForm{
+    height:500px;
+  
+  }
+  .signup-box {
+    width:400px;
+    height:500px;
+    margin: auto;
+    background-color: white;
+    border-radius: 3px;
+  }
+  
+  .login-box {
+    width: 360px;
+    height: 280px;
+    margin: auto;
+    border-radius: 3px;
+    background-color: white;
+  }
+  .signupForm{
+    height:300px;
+  }
+  .signup h1 {
+    text-align: center;
+    padding-top: 15px;
+  }
+  .signup h4 {
+    text-align: center;
+  }
+  
+  .signup form {
+    width: 300px;
+    margin-left: 20px;
+  }
+  
+  .signup form label {
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
+  .signup form input {
+    width: 100%;
+    padding: 7px;
+    border: none;
+    border: 1px solid gray;
+    border-radius: 6px;
+    outline: none;
+  } 
+  .signup
+  input[type="button"] {
+    width: 320px;
+    height: 35px;
+    margin-top: 20px;
+    border: none;
+    background-color: #49c1a2;
+    color: white;
+    font-size: 18px;
+  }
+  .signup p {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 15px;
+  }
+  .signup a{
+    color: red;
+  } */
+  
+  
